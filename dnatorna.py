@@ -4,7 +4,7 @@ Created on Tue Jun 27 14:55:13 2017
 
 @author: Shivam
 """
-
+'''This program takes any sequence of DNA and converts it to protein sequence'''
 d={}
 seq=''
 with open('codon.txt','r') as dictionary:
