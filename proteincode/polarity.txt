@@ -1,0 +1,79 @@
+Acidic	D
+Acidic	E
+Aromatic	F
+Aromatic	Y
+Aromatic	W
+Basic	H
+Basic	R
+Basic	K
+Nonpolar	M
+Nonpolar	L
+Nonpolar	P
+Nonpolar	I
+Nonpolar	T
+Nonpolar	V
+Nonpolar	A
+Nonpolar	G
+Polar	S
+Polar	C
+Polar	Q
+Polar	N
+TAA	*
+TAG	*
+TGA	*
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
